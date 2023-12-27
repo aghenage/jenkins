@@ -6,5 +6,3 @@ Scenario: another search
 Given I am on the home page
 When I search for "useless box"
 Then I should see more results
-
-
